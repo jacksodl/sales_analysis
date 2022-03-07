@@ -1,6 +1,6 @@
 # sales_analysis
 
-This is sales data.
+This is sales data done with Python.
 
 There are 12 months worth of data in this file.
 There is also a HTML report that can be bought up in your browser.
